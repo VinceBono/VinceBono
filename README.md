@@ -6,6 +6,16 @@
 <br/>
 Founder of [USTechService](https://www.ustechservice.com) & [DarkDataLabs](https://github.com/darkdatalabs) · Metro Detroit
 
+![PhD Candidate](https://img.shields.io/badge/PhD_Candidate-AI%2FML-412991?style=flat-square&logo=googlescholar&logoColor=white)
+![IT Director](https://img.shields.io/badge/IT_Director-Manufacturing-0078D4?style=flat-square&logo=serverfault&logoColor=white)
+![Adjunct Professor](https://img.shields.io/badge/Adjunct_Professor-Cybersecurity-8C1D40?style=flat-square&logo=academia&logoColor=white)
+![USMC Veteran](https://img.shields.io/badge/USMC-Veteran-B22234?style=flat-square&logo=usmc&logoColor=FFD700)
+![Founder](https://img.shields.io/badge/Founder-4_ventures-3FB950?style=flat-square&logo=rocket&logoColor=white)
+<!-- Certifications: add one badge per cert you hold, e.g.
+![CISSP](https://img.shields.io/badge/CISSP-certified-006400?style=flat-square&logo=isc2&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square&logo=comptia&logoColor=white)
+-->
+
 <a href="https://www.ustechservice.com"><img src="https://img.shields.io/badge/USTechService-00acb8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/darkdatalabs"><img src="https://img.shields.io/badge/DarkDataLabs-1a1e24?style=for-the-badge&logo=github&logoColor=3FB950" /></a>
 <a href="https://orcid.org/0009-0005-5860-2404"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
@@ -55,6 +65,22 @@ I work where **AI, security, and industrial systems collide**. I run enterprise 
 
 ---
 
+### `$ ls ~/ventures`
+
+| Venture | What it is | Role |
+|---|---|---|
+| [**USTechService**](https://www.ustechservice.com) | IT consulting: manufacturing AI, automation & infrastructure | Founder |
+| [**DarkDataLabs**](https://github.com/darkdatalabs) | Cybersecurity & AI/ML research and open-source tooling | Founder |
+| [**PathSecurity**](https://pathsecurity.com) | Enterprise cybersecurity consulting: assessments, hardening, security programs | Founder |
+| [**CyberThreatSchool**](https://cyberthreatschool.com) | Hands-on cybersecurity training platform | Founder |
+
+<!--
+In the lab: add a row here only when it's live (site/demo/repo works).
+| [**Name**](https://url) | one-line description | Founder |
+-->
+
+---
+
 ### `$ cat ~/stack`
 
 **Languages**
@@ -94,6 +120,15 @@ I work where **AI, security, and industrial systems collide**. I run enterprise 
 ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
+**Automation & Knowledge**
+<br/>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord_Bots-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
 **Industrial & Hardware**
 <br/>
 ![OPC UA](https://img.shields.io/badge/OPC_UA-0055A4?style=flat-square&logo=siemens&logoColor=white)
@@ -112,6 +147,8 @@ I work where **AI, security, and industrial systems collide**. I run enterprise 
 ![Followers](https://img.shields.io/github/followers/VinceBono?style=for-the-badge&logo=github&color=00acb8&labelColor=1a1e24)
 ![Stars](https://img.shields.io/github/stars/VinceBono?style=for-the-badge&logo=github&color=00acb8&labelColor=1a1e24&affiliations=OWNER,ORGANIZATION_MEMBER)
 ![Profile views](https://komarev.com/ghpvc/?username=VinceBono&style=for-the-badge&color=00acb8&label=VIEWS)
+
+<img src="https://streak-stats.demolab.com?user=VinceBono&theme=tokyonight&hide_border=true&background=1a1e24&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="GitHub streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinceBono&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
 
