@@ -57,8 +57,10 @@ I work where **AI, security, and industrial systems collide**. I run enterprise 
 
 | Project | Description | Status |
 |---|---|---|
-| [**mcp-opcua**](https://github.com/ustechservice) | Safe-by-default MCP server that lets AI agents read industrial OPC UA systems: write allowlists, dry-run, full audit log | ![](https://img.shields.io/badge/building-3FB950?style=flat-square) |
-| [**mcpscan**](https://github.com/darkdatalabs) | Rust security scanner for MCP servers and agent configs: tool poisoning, secrets, supply chain, SARIF output | ![](https://img.shields.io/badge/building-3FB950?style=flat-square) |
+| [**mcp-opcua**](https://github.com/ustechservice/mcp-opcua) | Safe-by-default MCP server that lets AI agents read industrial OPC UA systems: write allowlists, dry-run, full audit log | ![](https://img.shields.io/badge/building-3FB950?style=flat-square) |
+| [**mcpscan**](https://github.com/darkdatalabs/mcpscan) | Rust security scanner for MCP servers and agent configs: tool poisoning, secrets, supply chain, SARIF output | ![](https://img.shields.io/badge/building-3FB950?style=flat-square) |
+| [**claude-mcp-recipes**](https://github.com/VinceBono/claude-mcp-recipes) | Hardened MCP setups for Claude (Obsidian, Notion, Proxmox): pinned versions, least-privilege tokens, CI-checked | ![](https://img.shields.io/badge/live-00acb8?style=flat-square) |
+| [**oss-license-kit**](https://github.com/VinceBono/oss-license-kit) | AGPL + commercial dual-license template with CLA and commitguard, a pre-commit guard that blocks weights, datasets and secrets | ![](https://img.shields.io/badge/live-00acb8?style=flat-square) |
 | [**synthguard**](https://github.com/VinceBono) | Voice-clone & deepfake detection with reproducible benchmarks and model cards | ![](https://img.shields.io/badge/research-412991?style=flat-square) |
 | [**awesome-free-vibe-coding**](https://github.com/ustechservice/awesome-free-vibe-coding) | Verified free tiers for AI-assisted development: real limits, TOS gotchas, OSS replacements | ![](https://img.shields.io/badge/live-00acb8?style=flat-square) |
 | [**Claude_assistant-memory-os**](https://github.com/ustechservice/Claude_assistant-memory-os) | Notion-based memory OS skill for persistent AI assistant continuity | ![](https://img.shields.io/badge/live-00acb8?style=flat-square) |
