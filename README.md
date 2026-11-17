@@ -19,7 +19,7 @@ Founder of [USTechService](https://www.ustechservice.com) & [DarkDataLabs](https
 <a href="https://www.ustechservice.com"><img src="https://img.shields.io/badge/USTechService-00acb8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/darkdatalabs"><img src="https://img.shields.io/badge/DarkDataLabs-1a1e24?style=for-the-badge&logo=github&logoColor=3FB950" /></a>
 <a href="https://orcid.org/0009-0005-5860-2404"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-<!-- <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+<a href="https://www.linkedin.com/in/vincebono"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -181,10 +181,22 @@ In the lab: add a row here only when it's live (site/demo/repo works).
 
 ---
 
+### `$ cat ~/open-to`
+
 <div align="center">
 
-> [!NOTE]
-> **Open to:** research collaborations · speaking (AI security, OT security, deepfakes) · advisory roles · guest lectures
+<img src="https://img.shields.io/badge/Research_collaborations-1a1e24?style=for-the-badge&logo=googlescholar&logoColor=3FB950" alt="Research collaborations" />
+<img src="https://img.shields.io/badge/Speaking-1a1e24?style=for-the-badge&logo=speakerdeck&logoColor=3FB950" alt="Speaking" />
+<img src="https://img.shields.io/badge/Advisory_roles-1a1e24?style=for-the-badge&logo=handshake&logoColor=3FB950" alt="Advisory roles" />
+<img src="https://img.shields.io/badge/Guest_lectures-1a1e24?style=for-the-badge&logo=bookstack&logoColor=3FB950" alt="Guest lectures" />
+
+<sub>Talks on AI security · OT security · deepfakes and voice cloning</sub>
+
+<a href="https://www.linkedin.com/in/vincebono"><img src="https://img.shields.io/badge/Get_in_touch-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Get in touch on LinkedIn" /></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1e24,100:00acb8&height=90&section=footer" width="100%" alt="" />
 
 <sub>🦅 Semper Fidelis</sub>
 
