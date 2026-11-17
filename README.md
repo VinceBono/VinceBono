@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=800&color=3FB950&center=true&vCenter=true&width=720&height=50&lines=Vince+Bono;AI%2FML+Researcher+%C2%B7+IT+Director+%C2%B7+Adjunct Professor;Securing+AI+where+it+meets+the+physical+world" alt="Vince Bono" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=800&color=3FB950&center=true&vCenter=true&width=720&height=50&lines=Vince+Bono;AI%2FML+Researcher+%C2%B7+IT+Director+%C2%B7+Adjunct_Professor;Securing+AI+where+it+meets+the+physical+world" alt="Vince Bono" />
 
 **PhD Candidate, AI/ML** · **IT Director, Manufacturing** · **Adjunct Professor** · **USMC Veteran**
 <br/>
